@@ -70,3 +70,5 @@ gem "simple_form", "~> 5.0"
 gem "haml", "~> 5.1"
 
 gem "devise", "~> 4.7"
+
+gem "faker", "~> 2.11"
